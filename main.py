@@ -6,7 +6,7 @@ SCREEN_HEIGHT = 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Тир")
 
-icon = pygame.image.load.()
+icon = pygame.image.load("")
 
 running = True
 while running:
